@@ -9,7 +9,7 @@ const AddTodo = ({ addToStorage }) => {
       alert("Add Text");
       return;
     }
-    addToStorage(text);
+    addToStorage(text.charAt(0).toUpperCase() + text.slice(1));
     setText("");
   };
 

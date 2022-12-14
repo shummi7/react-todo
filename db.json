@@ -1,0 +1,19 @@
+{
+  "storage": [
+    {
+      "text": "Water Lilies",
+      "checked": false,
+      "id": 1
+    },
+    {
+      "text": "Clean Backyard",
+      "checked": false,
+      "id": 2
+    },
+    {
+      "text": "Steam Mop",
+      "checked": false,
+      "id": 3
+    }
+  ]
+}
